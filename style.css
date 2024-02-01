@@ -30,4 +30,17 @@ footer{
     width: 200px;
 }
 
-
+#navbar-menu{
+    margin-top: 15px;
+    float:right;
+}
+#logo{
+    font-size: 40px;
+    float:left;
+}
+#body{
+    margin-top: 20px;
+}
+#navbar{
+    background-color: rgb(56, 125, 186);
+}
