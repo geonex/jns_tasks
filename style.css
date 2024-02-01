@@ -1,0 +1,33 @@
+body
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url(Image/background-image.jpg);
+}
+
+h1, h2, h3{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+footer{
+    background-color:lightgrey;
+    display:flex;
+    justify-content: space-between;
+    padding: 2px;
+}
+
+.left {
+    background-color: aliceblue;
+    width: 200px;
+
+}
+.right {
+    background-color: lightcoral;
+    width: 200px;
+}
+
+.center{
+    background-color: aqua;
+    width: 200px;
+}
+
+
