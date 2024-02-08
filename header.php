@@ -15,13 +15,26 @@
       <h1 id="logo">Jenish Shrestha</h1>
       <ul class="nav justify-content-center">
         <li class="nav-item">
-           <a class="nav-link active" aria-current="page" href="#">Home</a>
+           <a class="nav-link active" aria-current="page" href="hello.php">Exercise 1</a>
         </li>
         <li class="nav-item">
-           <a class="nav-link" href="#">About</a>
+           <a class="nav-link" href="exe2.php">Exercise 2</a>
         </li>
         <li class="nav-item">
-           <a class="nav-link" href="contact.php">Contact</a>
+           <a class="nav-link" href="exe3.php">Exercise 3</a>
         </li>
+        <li class="nav-item">
+           <a class="nav-link" href="contact.php">Exercise 4</a>
+        </li>
+        <li class="nav-item">
+           <a class="nav-link" href="https://github.com/keshavsapkota3/Group_26-webprograming/blob/gh-pages/readme.md">Exercise 5</a>
+        </li>
+        <li class="nav-item">
+           <a class="nav-link" href="">Exercise 6</a>
+        </li>
+        <li class="nav-item">
+           <a class="nav-link" href="">Exercise 7</a>
+        </li>
+
       </ul>
   </div>

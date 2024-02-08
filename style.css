@@ -1,8 +1,4 @@
-body
-{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-image: url(Image/background-image.jpg);
-}
+
 
 h1, h2, h3{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -15,6 +11,9 @@ footer{
     padding: 2px;
 }
 
+body{
+  margin-top: 50px;
+}
 .left {
     background-color: aliceblue;
     width: 200px;
@@ -40,4 +39,9 @@ footer{
 }
 #body{
     margin-top: 20px;
+}
+
+
+.container{
+    margin-bottom: 50px;
 }
